@@ -1,0 +1,29 @@
+INSTALACIÓN DE PYTHON
+Instalar Python en equipos con sistema operativo Windows es muy sencillo, solo tenemos que seguir algunos pasos que detallaré a continuación:
+
+1.- Debemos de dirigirnos a la página oficial de Python https://www.python.org/downloads/
+
+2.- Reconocerá el sistema operativo con el que accedimos y mostrará dos botones para la descarga de Python
+
+3.- Elegimos la opción de Python 3.6 ( esta versión puede cambiar o actualizarse no se preocupen, solo hay que asegurarse que sea la versión 3).
+
+4.- Esperamos la descarga y una vez finalizada ejecutamos el programa.
+
+NOTA: La casilla del Path debe de estar palomeada
+
+5.- Continuaremos la instalación normalmente
+
+6.- Finalizamos la instalación de Python
+
+INSTALACIÓN DE VISUAL STUDIO CODE
+Visual Studio Code es un editor de texto que nos permitirá crear nuestros programas y ejecutarlos ya que cuenta con una terminal preintegrada, para seguir el curso te recomiendo este editor.
+
+1.- Nos dirigimos a la página oficial https://code.visualstudio.com/
+
+2.- Reconocerá el sistema operativo en el que estamos y solo procedemos a realizar la descarga
+
+3.- Una vez descargado ejecutamos
+
+4.- Es una instalación sencilla así que no tendremos problemas
+
+Esto será lo único que instalaremos, ahora estamos listos para hacer nuestros primeros programas. ¡¡Te espero en el siguiente vídeo!!
